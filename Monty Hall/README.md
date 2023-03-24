@@ -7,7 +7,7 @@ TV show where you can win money by picking the right box. The game show host sho
 
 
 # Technology Stack
-***Tele2 Monty Hall 
+* Tele2 Monty Hall 
 * Java 17
 * IntelliJ
 
